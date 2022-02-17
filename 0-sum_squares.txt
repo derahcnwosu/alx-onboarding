@@ -2,4 +2,4 @@ Step 1 : Input num1.
 Step 2 : Input num2.
 Step 3 : sumOfSquares = (num1 * num1) + (num2 * num2).
 Step 4 : Print sumOfSquares.
-Step 5 : End
+Step 5 : Stop
