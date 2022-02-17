@@ -1,0 +1,9 @@
+Start
+SET N = 0
+LET user INPUT a number
+IF number >= 0 
+     N = N + number
+     PRINT N
+ELSE 
+   PRINT N
+STOP
